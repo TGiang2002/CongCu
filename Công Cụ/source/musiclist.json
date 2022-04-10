@@ -9,6 +9,15 @@
     "link_lrc":"./source/告白气球.txt"
   },
   {
+    "name":"Chạy về nơi phía anh",
+    "singer": "Khác Việt",
+    "album": "Top 100",
+    "time": "03:00",
+    "link_url":"./source/Chay-Ve-Noi-Phia-Anh-Khac-Viet.mp3",
+    "cover":"./source/告白气球.jpg",
+    "link_lrc":"./source/chayvephianh.txt"
+  },
+  {
     "name":"As long AS Love Me",
     "singer": "Justin Bieber",
     "album": "NOW That's What I Call Music! 44",

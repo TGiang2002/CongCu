@@ -186,7 +186,7 @@ html,body{
     opacity: 1;
 }
 .content_right .song_info_pic{
-    display: inline-block;
+    /* display: inline-block; */
     width: 201px;
     height: 180px;
     background: url("../img/qq_music/album_cover_player.png");
@@ -195,7 +195,18 @@ html,body{
 .song_info_pic img{
     width: 180px;
     height: 180px;
+    border-radius: 50%;
+    animation: xoay infinite 5s linear;
 }
+
+@keyframes xoay {
+    from {
+      transform: rotate(0deg)
+    }
+    to {
+      transform: rotate(360deg)
+    }
+  }
 .content_right .song_lyric_container{
     margin-top: 30px;
     height: 150px;
