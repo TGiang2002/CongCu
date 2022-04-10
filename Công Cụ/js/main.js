@@ -30,7 +30,7 @@ $(function(){
 
 				initMusicInfo(data[0]);
 				// Khởi tạo thông tin lời bài hát
-				initMusicLyrics(data[0]);
+				initLyrics(data[0]);
 
 			},
 			error:function(e){
@@ -61,7 +61,20 @@ function initMusicInfo(music){
 	}
 
 	// Khởi tạo thông tin lời bài hát
-
+	function initLyrics(music){
+		lyrics = new Lyrics(music.link_lrc);
+// Lấy phần tử Dom của danh sách lời bài hát
+	var $lyricsContainer = $(".song_lyric");
+// Xóa lời bài hát trước đó
+		$lyricsContainer.html("");
+		lyrics.loadLyrics(function(){
+// Tạo danh sách lời bài hát
+			$.each(lyrics.lyric,function(index, ele){
+				var $item = $("<li>"+ele+"</li>");
+				$lyricsContainer.append($item);
+			});
+		});
+	}
 
 
 // Khởi tạo thanh tiến trình
@@ -184,7 +197,7 @@ function initMusicInfo(music){
 			initMusicInfo($item.get(0).music);
 			// chuyển đổi thông tin lời bài hát
 
-			initMusicLyrics($item.get(0).music);
+			initLyrics($item.get(0).music);
 		});
 
 // Theo dõi việc nhấp vào nút phát trong khu vực điều khiển dưới cùng
