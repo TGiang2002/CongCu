@@ -62,20 +62,7 @@ function initMusicInfo(music){
 
 	// Khởi tạo thông tin lời bài hát
 
-	function initMusicLyrics(music){
-		lyrics = new Lyrics(music.link_lrc);
-// Lấy phần tử Dom của danh sách lời bài hát
-	var $lyricsContainer = $(".song_lyric");
-// Xóa lời bài hát trước đó
-		$lyricsContainer.html("");
-		lyrics.loadLyrics(function(){
-// Tạo danh sách lời bài hát
-			$.each(lyrics.lyric,function(index, ele){
-				var $item = $("<li>"+ele+"</li>");
-				$lyricsContainer.append($item);
-			});
-		});
-	}
+
 
 // Khởi tạo thanh tiến trình
 	initProgress();
