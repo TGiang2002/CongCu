@@ -1,21 +1,30 @@
 [
   {
-    "name":"告白气球",
-    "singer": "周杰伦",
-    "album": "周杰伦的床边故事",
-    "time": "03:35",
-    "link_url":"./source/告白气球.mp3",
-    "cover":"./source/告白气球.jpg",
-    "link_lrc":"./source/告白气球.txt"
-  },
-  {
     "name":"Chạy về nơi phía anh",
     "singer": "Khác Việt",
     "album": "Top 100",
     "time": "03:00",
     "link_url":"./source/Chay-Ve-Noi-Phia-Anh-Khac-Viet.mp3",
-    "cover":"./source/告白气球.jpg",
+    "cover":"https://photo-resize-zmp3.zmdcdn.me/w165_r1x1_webp/cover/6/3/0/d/630d20b0a79917e1545b4e2ada081040.jpg",
     "link_lrc":"./source/chayvephianh.txt"
+  },
+  {
+    "name":"Đau ở đây này",
+    "singer": "Nal",
+    "album": "Top 100",
+    "time": "04:15",
+    "link_url":"./source/Dau-O-Day-Nay-Remake-Nal.mp3",
+    "cover":"https://photo-resize-zmp3.zmdcdn.me/w480_r1x1_webp/cover/d/2/5/a/d25a4499584dc296f476a230aad128be.jpg",
+    "link_lrc":"./source/dauodaynay.txt"
+  },
+  {
+    "name":"Lạc vào trong mơ",
+    "singer": "SimonC, WUY",  
+    "album": "Top 100",
+    "time": "02:53",
+    "link_url":"./source/Lac-Vao-Trong-Mo-SimonC-WUY.mp3",
+    "cover":"https://photo-resize-zmp3.zmdcdn.me/w480_r1x1_webp/cover/4/c/2/8/4c282e19915377775b55081874f03941.jpg",
+    "link_lrc":"./source/lacvaotrongmo.txt"
   },
   {
     "name":"As long AS Love Me",
@@ -43,85 +52,6 @@
     "link_url":"./source/YourSong.mp3",
     "cover":"./source/YourSong.jpg",
     "link_lrc":"./source/YourSong.txt"
-  },
-  {
-    "name":"凉凉",
-    "singer": "杨宗纬/张碧晨",
-    "album": "凉凉",
-    "time": "05:00",
-    "link_url":"./source/凉凉.mp3",
-    "cover":"./source/凉凉.jpg",
-    "link_lrc":"./source/凉凉.txt"
-  },
-  {
-    "name":"小城大事",
-    "singer": "张学友",
-    "album": "学友光年世界巡迴演唱会",
-    "time": "03:54",
-    "link_url":"./source/小城大事.mp3",
-    "cover":"./source/小城大事.jpg",
-    "link_lrc":"./source/小城大事.txt"
-  },
-  {
-    "name":"广东爱情故事",
-    "singer": "广东雨神",
-    "album": "广东爱情故事",
-    "time": "03:34",
-    "link_url":"./source/广东爱情故事.mp3",
-    "cover":"./source/广东爱情故事.jpg",
-    "link_lrc":"./source/广东爱情故事.txt"
-  },
-  {
-    "name":"我是一个程序员",
-    "singer": "单小叶",
-    "album": "程序猿",
-    "time": "02:14",
-    "link_url":"./source/我是一个程序员.mp3",
-    "cover":"./source/我是一个程序员.jpg",
-    "link_lrc":"./source/我是一个程序员.txt"
-  },
-  {
-    "name":"演员",
-    "singer": "薛之谦",
-    "album": "绅士",
-    "time": "04:21",
-    "link_url":"./source/演员.mp3",
-    "cover":"./source/演员.jpg",
-    "link_lrc":"./source/演员.txt"},
-  {
-    "name":"百里守约",
-    "singer": "萧敬腾",
-    "album": "《王者荣耀》百里守约英雄主打歌",
-    "time": "03:42",
-    "link_url":"./source/百里守约.mp3",
-    "cover":"./source/百里守约.jpg",
-    "link_lrc":"./source/百里守约.txt"
-  },
-  {
-    "name":"社会摇",
-    "singer": "萧全",
-    "album": "社会摇",
-    "time": "04:09",
-    "link_url":"./source/社会摇.mp3",
-    "cover":"./source/社会摇.jpg",
-    "link_lrc":"./source/社会摇.txt"
-  },
-  {
-    "name":"说散就散",
-    "singer": "袁娅维",
-    "album": "说散就散",
-    "time": "04:02",
-    "link_url":"./source/说散就散.mp3",
-    "cover":"./source/说散就散.jpg",
-    "link_lrc":"./source/说散就散.txt"
-  },
-  {
-    "name":"输了你赢了世界又如何",
-    "singer": "林俊杰",
-    "album": "梦想的声音《第二季》",
-    "time": "04:43",
-    "link_url":"./source/输了你赢了世界又如何.mp3",
-    "cover":"./source/输了你赢了世界又如何.jpg",
-    "link_lrc":"./source/输了你赢了世界又如何.txt"
   }
+ 
 ]
