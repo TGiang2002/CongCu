@@ -81,11 +81,11 @@ body{
   }
   .rain-drop:nth-child(17) {
     left: 53%;
-    animation: rainFall .8s linear 0.2s  20;
+    animation: rainFall .8s linear 0.5s  20;
   }
   .rain-drop:nth-child(18) {
     left: 53%;
-    animation: rainFall .8s linear 0.2s  20;
+    animation: rainFall .8s linear 0.4s  20;
   }
   .rain-drop:nth-child(19) {
     left: 53%;
