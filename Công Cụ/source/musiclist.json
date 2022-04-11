@@ -27,6 +27,42 @@
     "link_lrc":"./source/lacvaotrongmo.txt"
   },
   {
+    "name":"Nghe nói em  đã có người mới",
+    "singer": "Wansentai,Jayden",  
+    "album": "Top 100",
+    "time": "03:37",
+    "link_url":"./source/Nghe-Noi-Em-Da-Co-Nguoi-Moi-Wansentai-Jayden.mp3",
+    "cover":"https://photo-resize-zmp3.zmdcdn.me/w480_r1x1_webp/cover/4/f/f/4/4ff4baa6b608f9a0b459b0cd6115409f.jpg",
+    "link_lrc":"./source/nghenoiemconguoimoi.txt"
+  },
+  {
+    "name":"Yêu đương khó quá thì chạy về khóc với anh",
+    "singer": "Erik",  
+    "album": "Top 100",
+    "time": "03:44",
+    "link_url":"./source/YeuDuongKhoQuaThiChayVeKhocVoiAnh-ERIK-7128950.mp3",
+    "cover":"https://photo-resize-zmp3.zmdcdn.me/w480_r1x1_webp/cover/c/6/d/e/c6def069a1a885c41fe479358fa7c506.jpg",
+    "link_lrc":"./source/yeuduongkhoquathi.txt"
+  },
+  {
+    "name":"Áo mới cà mau",
+    "singer": "Phi Nhung",  
+    "album": "Top 100",
+    "time": "05:15",
+    "link_url":"./source/Ao-Moi-Ca-Mau-Phi-Nhung.mp3",
+    "cover":"https://photo-resize-zmp3.zmdcdn.me/w480_r1x1_webp/cover/c/6/d/e/c6def069a1a885c41fe479358fa7c506.jpg",
+    "link_lrc":"./source/aomoicamau.txt"
+  },
+  {
+    "name":"Don't Break My Heart",
+    "singer": "Binz,Touliver",  
+    "album": "Top 100",
+    "time": "03:58",
+    "link_url":"./source/Don-t-Break-My-Heart-Binz-Touliver.mp3",
+    "cover":"https://photo-resize-zmp3.zmdcdn.me/w480_r1x1_webp/cover/2/3/a/3/23a319ae4abfa44026f1cfe9d3de9387.jpg",
+    "link_lrc":"./source/don'tbreakmyheart.txt"
+  },
+  {
     "name":"As long AS Love Me",
     "singer": "Justin Bieber",
     "album": "NOW That's What I Call Music! 44",
